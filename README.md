@@ -28,5 +28,6 @@ https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/0145eb708feeefa5c
 4) Access the dashboard
       Local instance (browser on the instance): http://localhost:19999
       and take the screenshots of CPU, Memory, Disk usage,Docker cointainer etc
-https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/5228864474e666695511c88c2d8f7d9479fc6ddd/screenshots%20of%20netdata/Screenshot%202025-08-15%20132608.jpg
+https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/5228864474e666695511c88c2d8f7d9479fc6ddd/screenshots%20of%20netdata/Screenshot%202025-08-15%20132608.jpg.
+https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/90d0acd3d27f7eee63aee657edcc5b5526bfc3d6/screenshots%20of%20netdata/Screenshot%202025-08-15%20132630.jpg.
 
