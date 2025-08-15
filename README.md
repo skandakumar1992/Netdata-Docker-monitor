@@ -33,4 +33,5 @@ https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/90d0acd3d27f7eee6
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/721c6a07cc81283cc60e93a070688b422d071749/screenshots%20of%20netdata/Screenshot%202025-08-15%20132642.jpg.
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/f21853010811e76c4637702b131e9f2b66913c43/screenshots%20of%20netdata/Screenshot%202025-08-15%20132750.jpg.
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/472d268e6f48cec9ae427f7d0f925d067af8aaf9/screenshots%20of%20netdata/Screenshot%202025-08-15%20132844.jpg.
+https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/97fcfd419417398d44b9a05ad681147289886dea/screenshots%20of%20netdata/Screenshot%202025-08-15%20132904.jpg.
 
