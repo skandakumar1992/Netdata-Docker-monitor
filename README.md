@@ -34,4 +34,26 @@ https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/721c6a07cc81283cc
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/f21853010811e76c4637702b131e9f2b66913c43/screenshots%20of%20netdata/Screenshot%202025-08-15%20132750.jpg.
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/472d268e6f48cec9ae427f7d0f925d067af8aaf9/screenshots%20of%20netdata/Screenshot%202025-08-15%20132844.jpg.
 https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/97fcfd419417398d44b9a05ad681147289886dea/screenshots%20of%20netdata/Screenshot%202025-08-15%20132904.jpg.
+https://github.com/skandakumar1992/Netdata-Docker-monitor/blob/1282d50e21a90f809bd94046d9d81cbf7be46476/screenshots%20of%20netdata/Screenshot%202025-08-15%20133856.jpg.
+
+5) Explore alerts & edit alert definitions
+⦁	   docker exec -it netdata /bin/bash
+⦁	   ls -la /etc/netdata/health.d
+⦁	   ls -la /var/log/netdata
+⦁	   exit from the cointainer
+
+6) crate a folder
+⦁	mkdir netdata project
+⦁	cd netdataa project
+⦁	touch docker-compose.yaml
+⦁	vi docker-compose.yaml
+
+7) create a new repo in your GitHub repositories
+⦁	git init
+⦁	git add .
+⦁	git commit -m "Initial: Netdata docker compose + screenshots + notes"
+⦁	# Create repo on GitHub via web UI OR using gh CLI:
+⦁	# Option A: web UI -> create new repo, then:
+⦁	git remote add origin https://github.com/skandakumar1992/Netdata-Docker-monitor.git
+⦁	git push -u origin main
 
